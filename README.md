@@ -6,16 +6,11 @@ sites que uso no meu dia a dia... segue a lista
 [W3](https://www.w3.org/standards/webdesign/htmlcss)|
 :------:
 help master [w3schools](https://www.w3schools.com/)|
-<<<<<<< Updated upstream
+------
 
- **Colors**
+ **Colors** |
  :----:
-[Adobe color](https://color.adobe.com/pt/create/color-wheel)|
-=======
-### cores |
----------
 [Adobe color](https://color.adobe.com/pt/create/color-wheel) |
->>>>>>> Stashed changes
 [material-ui](https://material-ui.com/pt/customization/color/)|
 [material.io](https://material.io/)|
 [htmlcolorcodes](https://htmlcolorcodes.com/)|
