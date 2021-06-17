@@ -7,7 +7,7 @@ sites que uso no meu dia a dia... segue a lista
 help master [w3schools](https://www.w3schools.com/)|
 ### cores |
 ---------
-[Adobe color](https://color.adobe.com/pt/create/color-wheel)|
+:[Adobe color](https://color.adobe.com/pt/create/color-wheel):|
 [material-ui](https://material-ui.com/pt/customization/color/)|
 [material.io](https://material.io/)|
 [htmlcolorcodes](https://htmlcolorcodes.com/)|
@@ -48,7 +48,7 @@ help master [w3schools](https://www.w3schools.com/)|
 
 ### icons |
 ---
-[fontawesome](https://fontawesome.com/)|
+:[fontawesome](https://fontawesome.com/)|
 [iconarchive](https://iconarchive.com/)|
 
 ## UI |
