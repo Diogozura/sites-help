@@ -6,6 +6,7 @@ sites que uso no meu dia a dia... segue a lista
 [W3](https://www.w3.org/standards/webdesign/htmlcss)|
 :------:
 help master [w3schools](https://www.w3schools.com/)|
+[box Shadow CSS](https://html-css-js.com/css/generator/box-shadow/)
 ------
 
  **Colors** |
